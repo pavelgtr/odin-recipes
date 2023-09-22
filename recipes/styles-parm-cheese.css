@@ -1,0 +1,25 @@
+* {
+    background-color: #219C90;
+}
+
+body {
+    font-size: 150%;
+    /* text-align: center; */
+}
+h1, h2 {
+    text-align: center;
+}
+
+li {
+
+}
+
+.container {
+    text-align: center;
+}
+
+.myUL {
+    display: inline-block;
+    text-align: left;
+    padding-left: auto;
+}
